@@ -29,7 +29,7 @@ int main()
             numeroMinimo=numeroUsuario;
         }
     }
-
+    //comentario de prueba
     resultado = (float)acumulador / CANTIDAD_NUMEROS;//aca uso el float para que el acumulador me lo trate como float y no como entero por que sino la divicion de dos enteros me da un entero y esta mal
     printf("\n Resultado %.2f \n",resultado);
     printf("el numero maximo es %d \n",numeroMaximo);
